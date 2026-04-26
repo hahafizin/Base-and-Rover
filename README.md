@@ -30,7 +30,13 @@ An advanced, DIY geospatial tool designed to assist land surveyors in locating c
 3. Configure your pin mapping in `User_Setup.h` (TFT_eSPI).
 4. Upload to your ESP32-S3 boards.
 
-## Schematics
+## Schematics and PCB Design
+Base
 <img width="3300" height="2550" alt="Base Schematic" src="https://github.com/user-attachments/assets/bcbeca97-ea46-42f9-a79c-68b0efb911cf" />
+<img width="2037" height="1077" alt="Base PCB Design" src="https://github.com/user-attachments/assets/db9f5cf8-dfb9-4b50-87d6-b746cd009c29" />
+
+Rover
 <img width="3300" height="2550" alt="Rover Schematic" src="https://github.com/user-attachments/assets/78af9db3-1a71-40d7-ad3d-2fc98291df3c" />
+<img width="2392" height="1153" alt="Rover PCB Design" src="https://github.com/user-attachments/assets/7bc40b55-f03d-46c2-a865-e09314ac346d" />
+
 
