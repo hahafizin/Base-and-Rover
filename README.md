@@ -2,10 +2,6 @@
 
 An advanced, DIY geospatial tool designed to assist land surveyors in locating coordinates, verifying datums, and performing field navigation. This system utilizes a **Base and Rover** configuration to mitigate GPS drift and provide high-precision relative positioning via LoRa communication.
 
-## 📸 Screenshots
-![Main UI Dashboard](assets/main_ui.png)
-*Example of the Rover navigation interface showing Bearing, Distance, and XTE.*
-
 ## ✨ Key Features
 * **Differential GNSS Logic (Tare Function):** Minimizes "GPS Drift" by calculating relative offsets between the Base and Rover.
 * **Visual Navigation (CDI Mode):** Graphical Course Deviation Indicator (CDI) to guide users along a path between two points.
