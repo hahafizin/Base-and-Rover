@@ -39,4 +39,14 @@ Rover
 <img width="3300" height="2550" alt="Rover Schematic" src="https://github.com/user-attachments/assets/78af9db3-1a71-40d7-ad3d-2fc98291df3c" />
 <img width="2390" height="1153" alt="Rover PCB Design" src="https://github.com/user-attachments/assets/7bc40b55-f03d-46c2-a865-e09314ac346d" />
 
+Gallery
+<img width="2560" height="1920" alt="6303269277942878080_119" src="https://github.com/user-attachments/assets/32fa7c99-1725-4a0c-aa23-947023beda0b" />
+<img width="2560" height="1920" alt="6303269277942878075_119" src="https://github.com/user-attachments/assets/18be4b27-6df1-4403-947b-bedb86e15e65" />
+<img width="2560" height="1920" alt="6303269277942878079_119" src="https://github.com/user-attachments/assets/852b9f62-16a5-4a8e-a337-c95f4ebbeda3" />
+<img width="2560" height="1920" alt="6303269277942878078_119" src="https://github.com/user-attachments/assets/f43657c5-85f0-414a-a133-0cd50a87ec9b" />
+<img width="2560" height="1920" alt="6303269277942878077_119" src="https://github.com/user-attachments/assets/66cb0d62-2534-4510-a86b-62438787bfa2" />
+<img width="2560" height="1920" alt="6303269277942878076_119" src="https://github.com/user-attachments/assets/02e198dc-7cf0-48ce-b38c-7291877054f5" />
+<img width="2560" height="1920" alt="6303269277942878074_119" src="https://github.com/user-attachments/assets/a2dc804b-df22-407c-afc7-0bc959dcdf81" />
+
+
 
